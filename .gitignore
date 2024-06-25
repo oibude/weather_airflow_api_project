@@ -1,0 +1,4 @@
+.env
+myenv
+airflow.cfg
+airflow.db
