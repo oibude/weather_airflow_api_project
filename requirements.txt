@@ -4,3 +4,4 @@ python-dotenv
 requests
 apache-airflow[postgres]
 pyarrow
+apache-airflow
